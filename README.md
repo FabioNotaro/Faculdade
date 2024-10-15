@@ -1,2 +1,2 @@
 # Faculdade
-Materia estudado durante curso de ciencia da computação
+Material estudado durante curso de ciência da computação
